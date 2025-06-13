@@ -1,6 +1,12 @@
 # Three.js Personal project - Portal Scene
 This is the three.js personal project. Use Blender to create "Portal Scene", bake it, export it, and import it into Three.js  
 
+## Table of Contents
+1. Image
+2. Process
+3. Setup
+4. Live Demo
+
 ## Image
 ![Portal](./static/image/scene1.png)
 ![Portal2](./static/image/scene2.png)
@@ -29,3 +35,6 @@ npm run dev
 # Build for production in the dist/ directory
 npm run build
 ```
+
+## Live Demo
+[Live](https://three-js-portal-peach.vercel.app/)
