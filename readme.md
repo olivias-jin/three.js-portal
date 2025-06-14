@@ -8,9 +8,9 @@ This is the three.js personal project. Use Blender to create "Portal Scene", bak
 4. Live Demo
 
 ## Image
-![Portal](./static/image/scene1.png)
-![Portal2](./static/image/scene2.png)
-![Blender](./static/image/scene3.png)
+![Portal](./static/images/scene1.png)
+![Portal2](./static/images/scene2.png)
+![Blender](./static/images/scene3.png)
 
 ## Process
 To create a baked scene, follow these simple steps:
